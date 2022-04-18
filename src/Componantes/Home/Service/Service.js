@@ -2,10 +2,12 @@ import { Button } from 'bootstrap';
 import React from 'react';
 import { Card } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
+import useGetData from '../../hooks/getData';
 import './Service.css'
 
 const Service = ({ service }) => {
     const { name, img, price, description } = service;
+
     return (
         <div className='col-12 col-md-6 col-lg-4 d-flex justify-content-center my-2'>
             <Card style={{ width: '18rem' }}>
