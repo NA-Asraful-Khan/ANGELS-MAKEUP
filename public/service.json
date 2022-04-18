@@ -1,0 +1,45 @@
+[
+    {
+      "id": "1",
+      "name": "Facial Makeup",
+      "price": 420,
+      "img": "http://rockstheme.com/rocks/live-amelie/img/services/s1.jpg",
+      "description": "It's no secret that a good face is the foundation of a great look. Whether you're looking for the perfect concealer to cover up a blemish or an eye shadow palette to create a flawless, everyday look, the right."
+  
+    },
+    {
+      "id": "2",
+      "name": "Eye Makeup",
+      "price": 350,
+      "img": "http://rockstheme.com/rocks/live-amelie/img/services/s2.jpg",
+      "description": "Perfect for those with sensitive eyes, this non-irritating, waterproof formula has a light, creamy texture that won't clog pores. With the perfect amount of coverage, this makeup won't flake or smudge."
+    },
+    {
+      "id": "3",
+      "name": "Hair Styling",
+      "price": 150,
+      "img": "http://rockstheme.com/rocks/live-amelie/img/services/s3.jpg",
+      "description": "With the perfect blend of a light hold and a smooth finish, Dove Advanced Hair Series is perfect for any hair type. The light-weight formula leaves hair feeling silky and soft, and leaves hair looking sleek."
+    },
+    {
+      "id": "4",
+      "name": "Wedding Makeup",
+      "price": 420,
+      "img": "http://rockstheme.com/rocks/live-amelie/img/services/s4.jpg",
+      "description": "Wedding Makeup It's not easy to find the perfect wedding makeup, but this collection is perfect for the bride who wants to look her best on her big day. With a variety of shades and formulas."
+    },
+    {
+      "id": "5",
+      "name": "Fashion Makeup",
+      "price": 420,
+      "img": "http://rockstheme.com/rocks/live-amelie/img/services/s5.jpg",
+      "description": "In the latest issue of InStyle, the beauty editor shares her favorite products for achieving a fresh-faced look. Start with a primer, like L'Oreal Paris Infallible Pro-Matte Foundation Primer."
+    },
+    {
+      "id": "6",
+      "name": "Enents Makeup",
+      "price": 420,
+      "img": "http://rockstheme.com/rocks/live-amelie/img/services/s6.jpg",
+      "description": "Enents Makeup is perfect for the woman who wants to be confident in her skin and doesn't want to spend hours in the morning to achieve a flawless look. With a variety of shades."
+    }
+  ]
