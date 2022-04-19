@@ -12,7 +12,6 @@ const Gallary = () => {
 
     return (
         <div className='px-5 py-2'>
-            <h2>My Work </h2>
             <div className='gridGallary'>
                 <img className='img-fluid' src={img1} alt="" />
                 <img className='img-fluid' src={img2} alt="" />
