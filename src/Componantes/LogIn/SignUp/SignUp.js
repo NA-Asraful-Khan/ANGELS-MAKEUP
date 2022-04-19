@@ -56,9 +56,6 @@ const SignUp = () => {
                     <Form.Label>Password</Form.Label>
                     <Form.Control name='password' type="password" placeholder="Password" required />
                 </Form.Group>
-                <Form.Group className="mb-3" controlId="formBasicCheckbox">
-                    <Form.Check type="checkbox" label="Agree With Terms And Condition" />
-                </Form.Group>
                 {errorElement};
                 <button type='submit' className="btn btn-primary">Sign Up</button>
                 <p>Already Have an Account? <Link className="text-decoration-none text-primary" to="/login">Click for Log In</Link></p>
